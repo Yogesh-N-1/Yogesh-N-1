@@ -1,3 +1,5 @@
+![logo](https://github.com/Yogesh-N-1/Yogesh-N-1/blob/e5f7832178be2cc98f9c0f2b43be05ecabb1be6d/Modern%20Minimal%20Technology%20Background%20Facebook%20Cover.png)
+
 <h1 align="center">Hi 👋, I'm Yogesh</h1>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
 
