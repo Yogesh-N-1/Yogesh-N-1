@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Yogesh</h1>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
 
+  <img align="right" src="https://github.com/Yogesh-N-1/Yogesh-N-1/blob/e5d6669ae74d9bdad30bf37efdf526dd1c09a1a4/a177dfc84703c31afa0d501ccf43fe4f.gif" alt="Animated Hello" />
+
 - 📫 How to reach me **yogeshnikas7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
